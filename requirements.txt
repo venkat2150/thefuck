@@ -1,3 +1,5 @@
+colorama
+decorator
 flake8
 pytest
 mock
@@ -5,7 +7,9 @@ pytest-mock
 wheel
 setuptools>=17.1
 pexpect
+psutil
 pypandoc
+pyte
 pytest-benchmark
 pytest-docker-pexpect
 twine
